@@ -1,0 +1,5977 @@
+[
+  {
+    "query_number": 1,
+    "query": "obama family tree",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Barack Obama family tree and genealogy",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Obama family members and ancestral background",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 2,
+    "query": "french lick resort and casino",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Official information for French Lick Resort and Casino",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Booking rooms, packages, or casino visits at French Lick Resort",
+        "confidence": 0.1
+      },
+      {
+        "id": 3,
+        "title": "Amenities, dining, spa, golf, and entertainment at French Lick Resort",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 3,
+    "query": "getting organized",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Tips and methods for personal organization",
+        "confidence": 0.68
+      },
+      {
+        "id": 2,
+        "title": "Organizing physical spaces and belongings",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Time management and productivity systems",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 4,
+    "query": "toilet",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Toilet fixture and its types, parts, or use",
+        "confidence": 0.8
+      },
+      {
+        "id": 2,
+        "title": "Toilet maintenance, repair, or unclogging",
+        "confidence": 0.2
+      }
+    ]
+  },
+  {
+    "query_number": 5,
+    "query": "mitchell college",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Mitchell College in New London, Connecticut",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Mitchell Community College in Statesville, North Carolina",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 6,
+    "query": "kcs",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Knowledge-Centered Service (KCS) methodology",
+        "confidence": 0.42
+      },
+      {
+        "id": 2,
+        "title": "Kansas City Southern railway",
+        "confidence": 0.23
+      },
+      {
+        "id": 3,
+        "title": "KCS certification or training",
+        "confidence": 0.16
+      },
+      {
+        "id": 4,
+        "title": "KCS school district or schools",
+        "confidence": 0.11
+      },
+      {
+        "id": 5,
+        "title": "KCS technology or product acronym",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 7,
+    "query": "air travel information",
+    "intents": [
+      {
+        "id": 1,
+        "title": "General air travel guidance and requirements",
+        "confidence": 0.6
+      },
+      {
+        "id": 2,
+        "title": "Flight schedules, routes, and booking information",
+        "confidence": 0.25
+      },
+      {
+        "id": 3,
+        "title": "Airport and airline policies, baggage, and check-in rules",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 8,
+    "query": "appraisals",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Performance reviews for employees",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Property valuation for real estate",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "General meaning or definition of appraisals",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 9,
+    "query": "used car parts",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Buy used replacement parts for a car",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Sell used car parts",
+        "confidence": 0.1
+      },
+      {
+        "id": 3,
+        "title": "Information about used car parts quality, compatibility, and sourcing",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 10,
+    "query": "cheap internet",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Low-cost home internet service plans",
+        "confidence": 0.68
+      },
+      {
+        "id": 2,
+        "title": "Affordable broadband providers available locally",
+        "confidence": 0.22
+      },
+      {
+        "id": 3,
+        "title": "Budget internet options for low-income users",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 11,
+    "query": "gmat prep classes",
+    "intents": [
+      {
+        "id": 1,
+        "title": "GMAT preparation courses",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Comparing GMAT prep class options",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 12,
+    "query": "djs",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Disc jockeys",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "DJS abbreviation or acronym",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Django REST framework serializers or related developer shorthand",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 13,
+    "query": "map",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Geographic map",
+        "confidence": 0.55
+      },
+      {
+        "id": 2,
+        "title": "Map service or navigation",
+        "confidence": 0.25
+      },
+      {
+        "id": 3,
+        "title": "Programming map data structure or function",
+        "confidence": 0.12
+      },
+      {
+        "id": 4,
+        "title": "Mathematical map or mapping",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 14,
+    "query": "dinosaurs",
+    "intents": [
+      {
+        "id": 1,
+        "title": "General information about dinosaurs",
+        "confidence": 0.34
+      },
+      {
+        "id": 2,
+        "title": "Types and classification of dinosaurs",
+        "confidence": 0.22
+      },
+      {
+        "id": 3,
+        "title": "Dinosaur extinction",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "When dinosaurs lived and evolutionary history",
+        "confidence": 0.14
+      },
+      {
+        "id": 5,
+        "title": "Dinosaur fossils and paleontology",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 15,
+    "query": "espn sports",
+    "intents": [
+      {
+        "id": 1,
+        "title": "ESPN sports coverage and scores",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "ESPN website or app",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "ESPN sports news and highlights",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 16,
+    "query": "arizona game and fish",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Arizona Game and Fish Department",
+        "confidence": 0.92
+      },
+      {
+        "id": 2,
+        "title": "Arizona hunting and fishing regulations, licenses, or wildlife information",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 17,
+    "query": "poker tournaments",
+    "intents": [
+      {
+        "id": 1,
+        "title": "How poker tournaments work and how to play them",
+        "confidence": 0.42
+      },
+      {
+        "id": 2,
+        "title": "Find upcoming live or online poker tournaments",
+        "confidence": 0.3
+      },
+      {
+        "id": 3,
+        "title": "Poker tournament strategy and winning tips",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Poker tournament rules, structures, and formats",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 18,
+    "query": "wedding budget calculator",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Tool to estimate total wedding costs and allocate a budget",
+        "confidence": 0.92
+      },
+      {
+        "id": 2,
+        "title": "Advice on how to create and manage a wedding budget",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 19,
+    "query": "the current",
+    "intents": [
+      {
+        "id": 1,
+        "title": "The Current TV series or film",
+        "confidence": 0.43
+      },
+      {
+        "id": 2,
+        "title": "The Current radio program or media brand",
+        "confidence": 0.28
+      },
+      {
+        "id": 3,
+        "title": "Electric current",
+        "confidence": 0.17
+      },
+      {
+        "id": 4,
+        "title": "Current events or present situation",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 20,
+    "query": "defender",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Land Rover Defender vehicle",
+        "confidence": 0.38
+      },
+      {
+        "id": 2,
+        "title": "Defender security software or antivirus",
+        "confidence": 0.28
+      },
+      {
+        "id": 3,
+        "title": "Defender as a sports position",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Defender as a legal term for an accused person",
+        "confidence": 0.1
+      },
+      {
+        "id": 5,
+        "title": "The noun meaning a protector or advocate",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 21,
+    "query": "volvo",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Volvo car brand",
+        "confidence": 0.74
+      },
+      {
+        "id": 2,
+        "title": "Volvo Group trucks, buses, and industrial vehicles",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Volvo Penta marine and industrial engines",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 22,
+    "query": "rick warren",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Rick Warren, the Christian pastor and author",
+        "confidence": 0.97
+      },
+      {
+        "id": 2,
+        "title": "Other people named Rick Warren",
+        "confidence": 0.03
+      }
+    ]
+  },
+  {
+    "query_number": 23,
+    "query": "yahoo",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Yahoo website and web portal",
+        "confidence": 0.55
+      },
+      {
+        "id": 2,
+        "title": "Yahoo Mail",
+        "confidence": 0.3
+      },
+      {
+        "id": 3,
+        "title": "Yahoo as a company",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 24,
+    "query": "diversity",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Meaning or definition of diversity",
+        "confidence": 0.38
+      },
+      {
+        "id": 2,
+        "title": "Diversity in workplaces, schools, or organizations",
+        "confidence": 0.27
+      },
+      {
+        "id": 3,
+        "title": "Biodiversity in nature and ecosystems",
+        "confidence": 0.19
+      },
+      {
+        "id": 4,
+        "title": "Diversity, equity, and inclusion initiatives",
+        "confidence": 0.16
+      }
+    ]
+  },
+  {
+    "query_number": 25,
+    "query": "euclid",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Euclid the ancient Greek mathematician",
+        "confidence": 0.62
+      },
+      {
+        "id": 2,
+        "title": "Euclidean geometry or Euclid's mathematical works",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Euclid space telescope mission",
+        "confidence": 0.12
+      },
+      {
+        "id": 4,
+        "title": "Euclid programming language or software tool",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 26,
+    "query": "lower heart rate",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Ways to lower resting heart rate",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Causes of a low heart rate",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "How to lower heart rate quickly during stress or exercise",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 27,
+    "query": "starbucks",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Starbucks coffee company",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Starbucks store locations or nearby cafes",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 28,
+    "query": "inuyasha",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Inuyasha anime or manga series",
+        "confidence": 0.83
+      },
+      {
+        "id": 2,
+        "title": "Inuyasha character",
+        "confidence": 0.17
+      }
+    ]
+  },
+  {
+    "query_number": 29,
+    "query": "ps 2 games",
+    "intents": [
+      {
+        "id": 1,
+        "title": "PlayStation 2 video games",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Games for the PS2 console to buy or download",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 30,
+    "query": "diabetes education",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Diabetes self-management education and patient resources",
+        "confidence": 0.68
+      },
+      {
+        "id": 2,
+        "title": "Professional diabetes educator training and certification",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Diabetes education programs and classes",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 31,
+    "query": "atari",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Atari video game company and brand",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Atari game consoles and hardware",
+        "confidence": 0.1
+      },
+      {
+        "id": 3,
+        "title": "Atari-related classic video games",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 32,
+    "query": "website design hosting",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Web design and hosting services",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Website design for a hosting company or hosting website",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 33,
+    "query": "elliptical trainer",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Buy or compare elliptical trainer exercise machines",
+        "confidence": 0.63
+      },
+      {
+        "id": 2,
+        "title": "Learn how to use an elliptical trainer for workouts and fitness",
+        "confidence": 0.22
+      },
+      {
+        "id": 3,
+        "title": "Elliptical trainer benefits, calories, and muscle groups",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 34,
+    "query": "cell phones",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Cell phone products and types",
+        "confidence": 0.44
+      },
+      {
+        "id": 2,
+        "title": "Cell phone plans and carriers",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Cell phone features and buying guides",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Cell phone repair and troubleshooting",
+        "confidence": 0.08
+      },
+      {
+        "id": 5,
+        "title": "Cell phone history and general information",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 35,
+    "query": "hoboken",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Hoboken, New Jersey",
+        "confidence": 0.89
+      },
+      {
+        "id": 2,
+        "title": "Hoboken train terminal or transit services",
+        "confidence": 0.11
+      }
+    ]
+  },
+  {
+    "query_number": 36,
+    "query": "gps",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Global Positioning System technology and how GPS works",
+        "confidence": 0.7
+      },
+      {
+        "id": 2,
+        "title": "GPS devices, apps, and navigation use",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "GPS tracking and location monitoring",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 37,
+    "query": "pampered chef",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Pampered Chef cookware and kitchen products brand",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Pampered Chef recipes and cooking resources",
+        "confidence": 0.14
+      },
+      {
+        "id": 3,
+        "title": "Pampered Chef consultant or direct sales business opportunity",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 38,
+    "query": "dogs for adoption",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Find dogs available for adoption",
+        "confidence": 0.84
+      },
+      {
+        "id": 2,
+        "title": "Learn about the dog adoption process and requirements",
+        "confidence": 0.16
+      }
+    ]
+  },
+  {
+    "query_number": 39,
+    "query": "disneyland hotel",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Disneyland Hotel resort property",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Hotels near Disneyland",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 40,
+    "query": "michworks",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Michigan Works! workforce development organization",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "A business, brand, or username named MichWorks",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 41,
+    "query": "orange county convention center",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Orange County Convention Center in Orlando, Florida",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Events or venue information for the Orange County Convention Center",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 42,
+    "query": "the music man",
+    "intents": [
+      {
+        "id": 1,
+        "title": "The Music Man musical",
+        "confidence": 0.55
+      },
+      {
+        "id": 2,
+        "title": "The Music Man film adaptations",
+        "confidence": 0.3
+      },
+      {
+        "id": 3,
+        "title": "The Music Man songs or soundtrack",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 43,
+    "query": "the secret garden",
+    "intents": [
+      {
+        "id": 1,
+        "title": "The Secret Garden novel by Frances Hodgson Burnett",
+        "confidence": 0.48
+      },
+      {
+        "id": 2,
+        "title": "The Secret Garden film adaptations",
+        "confidence": 0.27
+      },
+      {
+        "id": 3,
+        "title": "The Secret Garden musical",
+        "confidence": 0.15
+      },
+      {
+        "id": 4,
+        "title": "The Secret Garden general story summary or themes",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 44,
+    "query": "map of the united states",
+    "intents": [
+      {
+        "id": 1,
+        "title": "United States political map",
+        "confidence": 0.52
+      },
+      {
+        "id": 2,
+        "title": "United States physical or geographic map",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Blank or outline map of the United States",
+        "confidence": 0.14
+      },
+      {
+        "id": 4,
+        "title": "Road map of the United States",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 45,
+    "query": "solar panels",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Buying and comparing solar panels",
+        "confidence": 0.34
+      },
+      {
+        "id": 2,
+        "title": "How solar panels work",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Installing solar panels",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Cost, savings, and incentives for solar panels",
+        "confidence": 0.14
+      },
+      {
+        "id": 5,
+        "title": "Maintenance and lifespan of solar panels",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 46,
+    "query": "alexian brothers hospital",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Specific hospital or hospital system named Alexian Brothers Hospital",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Locations, contact details, or directions for an Alexian Brothers Hospital facility",
+        "confidence": 0.22
+      }
+    ]
+  },
+  {
+    "query_number": 47,
+    "query": "indexed annuity",
+    "intents": [
+      {
+        "id": 1,
+        "title": "What an indexed annuity is and how it works",
+        "confidence": 0.42
+      },
+      {
+        "id": 2,
+        "title": "Pros, cons, and risks of indexed annuities",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Returns, caps, participation rates, and crediting methods",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Comparison of indexed annuities with other retirement products",
+        "confidence": 0.1
+      },
+      {
+        "id": 5,
+        "title": "Tax treatment and withdrawal rules for indexed annuities",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 48,
+    "query": "wilson antenna",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Wilson brand antennas and cellular signal booster antennas",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Antennas associated with a person or company named Wilson",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 49,
+    "query": "flame designs",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Flame design graphics or artwork",
+        "confidence": 0.46
+      },
+      {
+        "id": 2,
+        "title": "Flame nail designs",
+        "confidence": 0.22
+      },
+      {
+        "id": 3,
+        "title": "Flame tattoo designs",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Flame decals or paint designs for cars and motorcycles",
+        "confidence": 0.14
+      }
+    ]
+  },
+  {
+    "query_number": 50,
+    "query": "dog heat",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Female dog in heat cycle",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Managing a dog during hot weather or heat exposure",
+        "confidence": 0.28
+      }
+    ]
+  },
+  {
+    "query_number": 51,
+    "query": "horse hooves",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Horse hoof care and maintenance",
+        "confidence": 0.48
+      },
+      {
+        "id": 2,
+        "title": "Horse hoof anatomy and structure",
+        "confidence": 0.27
+      },
+      {
+        "id": 3,
+        "title": "Horse hoof health problems and diseases",
+        "confidence": 0.25
+      }
+    ]
+  },
+  {
+    "query_number": 52,
+    "query": "avp",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Alien vs. Predator franchise",
+        "confidence": 0.56
+      },
+      {
+        "id": 2,
+        "title": "Assistant Vice President job title",
+        "confidence": 0.23
+      },
+      {
+        "id": 3,
+        "title": "Audio/Video Processor or Audio/Video products",
+        "confidence": 0.13
+      },
+      {
+        "id": 4,
+        "title": "Association of Volleyball Professionals",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 53,
+    "query": "discovery channel store",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Discovery Channel online store",
+        "confidence": 0.86
+      },
+      {
+        "id": 2,
+        "title": "Retail store or merchandise sold by Discovery Channel",
+        "confidence": 0.14
+      }
+    ]
+  },
+  {
+    "query_number": 54,
+    "query": "president of the united states",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Current officeholder of the president of the United States",
+        "confidence": 0.62
+      },
+      {
+        "id": 2,
+        "title": "Role and powers of the president of the United States",
+        "confidence": 0.23
+      },
+      {
+        "id": 3,
+        "title": "List or history of U.S. presidents",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 55,
+    "query": "iron",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Chemical element iron",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Clothing iron appliance",
+        "confidence": 0.14
+      },
+      {
+        "id": 3,
+        "title": "Golf iron club",
+        "confidence": 0.04
+      }
+    ]
+  },
+  {
+    "query_number": 56,
+    "query": "uss yorktown charleston sc",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Visit the USS Yorktown museum ship at Patriots Point in Charleston, South Carolina",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Historical information about the USS Yorktown located in Charleston, South Carolina",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 57,
+    "query": "ct jobs",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Connecticut job listings and employment opportunities",
+        "confidence": 0.74
+      },
+      {
+        "id": 2,
+        "title": "Computed tomography jobs in medical imaging",
+        "confidence": 0.21
+      },
+      {
+        "id": 3,
+        "title": "Jobs at CT Corporation",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 58,
+    "query": "penguins",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Penguin bird species information",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Pittsburgh Penguins NHL team",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 59,
+    "query": "how to build a fence",
+    "intents": [
+      {
+        "id": 1,
+        "title": "DIY fence construction instructions",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Fence planning and material selection",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 60,
+    "query": "bellevue",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Bellevue, Washington",
+        "confidence": 0.76
+      },
+      {
+        "id": 2,
+        "title": "Other places named Bellevue",
+        "confidence": 0.17
+      },
+      {
+        "id": 3,
+        "title": "Bellevue Hospital Center",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 61,
+    "query": "worm",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Parasitic or common worm animal",
+        "confidence": 0.52
+      },
+      {
+        "id": 2,
+        "title": "Computer worm malware",
+        "confidence": 0.38
+      },
+      {
+        "id": 3,
+        "title": "Fishing bait worms",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 62,
+    "query": "texas border patrol",
+    "intents": [
+      {
+        "id": 1,
+        "title": "U.S. Border Patrol operations in Texas",
+        "confidence": 0.64
+      },
+      {
+        "id": 2,
+        "title": "Texas state border enforcement agencies or initiatives",
+        "confidence": 0.23
+      },
+      {
+        "id": 3,
+        "title": "Jobs or careers in Border Patrol in Texas",
+        "confidence": 0.13
+      }
+    ]
+  },
+  {
+    "query_number": 63,
+    "query": "flushing",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Flushing as a place name",
+        "confidence": 0.46
+      },
+      {
+        "id": 2,
+        "title": "Facial or skin flushing",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Toilet flushing",
+        "confidence": 0.17
+      },
+      {
+        "id": 4,
+        "title": "Flushing as a plumbing or cleaning process",
+        "confidence": 0.08
+      },
+      {
+        "id": 5,
+        "title": "Flushing in poker",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 64,
+    "query": "moths",
+    "intents": [
+      {
+        "id": 1,
+        "title": "General information about moths",
+        "confidence": 0.64
+      },
+      {
+        "id": 2,
+        "title": "Identifying moth species",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Moth behavior and lifecycle",
+        "confidence": 0.16
+      }
+    ]
+  },
+  {
+    "query_number": 65,
+    "query": "korean language",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Learning the Korean language",
+        "confidence": 0.56
+      },
+      {
+        "id": 2,
+        "title": "General information about the Korean language",
+        "confidence": 0.29
+      },
+      {
+        "id": 3,
+        "title": "Korean language writing system and pronunciation",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 66,
+    "query": "income tax return online",
+    "intents": [
+      {
+        "id": 1,
+        "title": "File an income tax return online",
+        "confidence": 0.84
+      },
+      {
+        "id": 2,
+        "title": "Check or submit an income tax return through an official online portal",
+        "confidence": 0.1
+      },
+      {
+        "id": 3,
+        "title": "Information about how to file income tax returns online",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 67,
+    "query": "vldl levels",
+    "intents": [
+      {
+        "id": 1,
+        "title": "VLDL cholesterol blood test results and normal ranges",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "How to lower high VLDL levels",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 68,
+    "query": "pvc",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Polyvinyl chloride plastic",
+        "confidence": 0.96
+      },
+      {
+        "id": 2,
+        "title": "Premature ventricular contractions",
+        "confidence": 0.04
+      }
+    ]
+  },
+  {
+    "query_number": 69,
+    "query": "sewing instructions",
+    "intents": [
+      {
+        "id": 1,
+        "title": "How-to guides for sewing techniques and projects",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Instructions for using a sewing machine",
+        "confidence": 0.22
+      }
+    ]
+  },
+  {
+    "query_number": 70,
+    "query": "to be or not to be that is the question",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Hamlet quote meaning or origin",
+        "confidence": 0.7
+      },
+      {
+        "id": 2,
+        "title": "Full text or source passage from Hamlet",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "General discussion of the phrase as a famous quotation",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 71,
+    "query": "living in india",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Life in India",
+        "confidence": 0.68
+      },
+      {
+        "id": 2,
+        "title": "Moving to India",
+        "confidence": 0.22
+      },
+      {
+        "id": 3,
+        "title": "Cost of living in India",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 72,
+    "query": "the sun",
+    "intents": [
+      {
+        "id": 1,
+        "title": "The Sun newspaper",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "The Sun as Earth's star",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "The Sun (United States newspaper)",
+        "confidence": 0.04
+      }
+    ]
+  },
+  {
+    "query_number": 73,
+    "query": "neil young",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Neil Young the singer-songwriter and musician",
+        "confidence": 0.96
+      },
+      {
+        "id": 2,
+        "title": "Neil Young archives, discography, or tour-related information",
+        "confidence": 0.04
+      }
+    ]
+  },
+  {
+    "query_number": 74,
+    "query": "kiwi",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Kiwi fruit",
+        "confidence": 0.5
+      },
+      {
+        "id": 2,
+        "title": "Kiwi bird",
+        "confidence": 0.25
+      },
+      {
+        "id": 3,
+        "title": "New Zealander (Kiwi)",
+        "confidence": 0.15
+      },
+      {
+        "id": 4,
+        "title": "Kiwibank or other brands/products named Kiwi",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 75,
+    "query": "tornadoes",
+    "intents": [
+      {
+        "id": 1,
+        "title": "General information about tornadoes",
+        "confidence": 0.5
+      },
+      {
+        "id": 2,
+        "title": "How tornadoes form and the conditions that cause them",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Tornado safety, preparedness, and what to do during a tornado",
+        "confidence": 0.15
+      },
+      {
+        "id": 4,
+        "title": "Famous, recent, or historical tornado events",
+        "confidence": 0.1
+      },
+      {
+        "id": 5,
+        "title": "Tornado intensity, classification, and forecasting",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 76,
+    "query": "raised gardens",
+    "intents": [
+      {
+        "id": 1,
+        "title": "How to build or set up raised garden beds",
+        "confidence": 0.42
+      },
+      {
+        "id": 2,
+        "title": "Benefits and basics of raised bed gardening",
+        "confidence": 0.26
+      },
+      {
+        "id": 3,
+        "title": "Design ideas and layouts for raised gardens",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Best soil and plants for raised gardens",
+        "confidence": 0.14
+      }
+    ]
+  },
+  {
+    "query_number": 77,
+    "query": "bobcat",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Bobcat animal",
+        "confidence": 0.56
+      },
+      {
+        "id": 2,
+        "title": "Bobcat Company construction equipment brand",
+        "confidence": 0.38
+      },
+      {
+        "id": 3,
+        "title": "Bobcat mascot or sports team",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 78,
+    "query": "dieting",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Weight loss methods and calorie reduction",
+        "confidence": 0.42
+      },
+      {
+        "id": 2,
+        "title": "Healthy dieting plans and nutrition guidance",
+        "confidence": 0.26
+      },
+      {
+        "id": 3,
+        "title": "Dieting tips, motivation, and adherence",
+        "confidence": 0.16
+      },
+      {
+        "id": 4,
+        "title": "Dieting risks, side effects, and eating disorder concerns",
+        "confidence": 0.09
+      },
+      {
+        "id": 5,
+        "title": "Popular diet types and comparisons",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 79,
+    "query": "voyager",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Voyager spacecraft program",
+        "confidence": 0.46
+      },
+      {
+        "id": 2,
+        "title": "Voyager 1 or Voyager 2 mission information",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Star Trek: Voyager",
+        "confidence": 0.22
+      },
+      {
+        "id": 4,
+        "title": "Chrysler Plymouth Voyager minivan",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 80,
+    "query": "keyboard reviews",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Computer keyboard product reviews",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Musical keyboard product reviews",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 81,
+    "query": "afghanistan",
+    "intents": [
+      {
+        "id": 1,
+        "title": "General information about Afghanistan",
+        "confidence": 0.62
+      },
+      {
+        "id": 2,
+        "title": "Current news and political situation in Afghanistan",
+        "confidence": 0.23
+      },
+      {
+        "id": 3,
+        "title": "Travel and tourism in Afghanistan",
+        "confidence": 0.08
+      },
+      {
+        "id": 4,
+        "title": "History of Afghanistan",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 82,
+    "query": "joints",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Anatomical joints in the body",
+        "confidence": 0.7
+      },
+      {
+        "id": 2,
+        "title": "Marijuana joints",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Mechanical or structural joints",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 83,
+    "query": "memory",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Computer memory",
+        "confidence": 0.42
+      },
+      {
+        "id": 2,
+        "title": "Human memory",
+        "confidence": 0.36
+      },
+      {
+        "id": 3,
+        "title": "Computer storage capacity or device memory",
+        "confidence": 0.14
+      },
+      {
+        "id": 4,
+        "title": "Memorial or remembrance",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 84,
+    "query": "continental plates",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Tectonic plates of Earth's continents",
+        "confidence": 0.92
+      },
+      {
+        "id": 2,
+        "title": "Continental plate dinnerware or serving plates",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 85,
+    "query": "milwaukee journal sentinel",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Milwaukee Journal Sentinel newspaper",
+        "confidence": 0.93
+      },
+      {
+        "id": 2,
+        "title": "Milwaukee Journal Sentinel obituaries",
+        "confidence": 0.04
+      },
+      {
+        "id": 3,
+        "title": "Milwaukee Journal Sentinel subscription or customer service",
+        "confidence": 0.03
+      }
+    ]
+  },
+  {
+    "query_number": 86,
+    "query": "bart sf",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Bay Area Rapid Transit in San Francisco",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "BART stations, routes, or schedules in San Francisco",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 87,
+    "query": "who invented music",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Origin of music in human history",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Who is credited with inventing specific musical elements or instruments",
+        "confidence": 0.12
+      },
+      {
+        "id": 3,
+        "title": "Mythological or religious figure associated with creating music",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 88,
+    "query": "forearm pain",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Causes and diagnosis of forearm pain",
+        "confidence": 0.5
+      },
+      {
+        "id": 2,
+        "title": "Treatment and relief for forearm pain",
+        "confidence": 0.3
+      },
+      {
+        "id": 3,
+        "title": "Forearm pain from exercise or injury",
+        "confidence": 0.2
+      }
+    ]
+  },
+  {
+    "query_number": 89,
+    "query": "ocd",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Obsessive-compulsive disorder",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Organizational culture development",
+        "confidence": 0.07
+      },
+      {
+        "id": 3,
+        "title": "Obsessive-compulsive personality or traits used colloquially",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 90,
+    "query": "mgb",
+    "intents": [
+      {
+        "id": 1,
+        "title": "MG B sports car",
+        "confidence": 0.58
+      },
+      {
+        "id": 2,
+        "title": "MGB logistics or transport company",
+        "confidence": 0.17
+      },
+      {
+        "id": 3,
+        "title": "Military Green Book",
+        "confidence": 0.13
+      },
+      {
+        "id": 4,
+        "title": "Molecular and Cell Biology journal or academic abbreviation",
+        "confidence": 0.07
+      },
+      {
+        "id": 5,
+        "title": "Medical or scientific abbreviation MGB",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 91,
+    "query": "er tv show",
+    "intents": [
+      {
+        "id": 1,
+        "title": "American medical drama television series",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Emergency room as a TV show topic or genre query",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 92,
+    "query": "the wall",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Pink Floyd album",
+        "confidence": 0.48
+      },
+      {
+        "id": 2,
+        "title": "Physical wall or barrier",
+        "confidence": 0.22
+      },
+      {
+        "id": 3,
+        "title": "Film or TV title",
+        "confidence": 0.12
+      },
+      {
+        "id": 4,
+        "title": "Donald Trump border wall / U.S.-Mexico border wall",
+        "confidence": 0.1
+      },
+      {
+        "id": 5,
+        "title": "The Wall Street Journal or financial news shorthand",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 93,
+    "query": "raffles",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Raffles Hotel Singapore",
+        "confidence": 0.38
+      },
+      {
+        "id": 2,
+        "title": "Raffles Institution or other Raffles-named schools",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Thomas Stamford Raffles",
+        "confidence": 0.2
+      },
+      {
+        "id": 4,
+        "title": "Raffles Medical Group",
+        "confidence": 0.1
+      },
+      {
+        "id": 5,
+        "title": "Rafflesia-related misspelling or confusion",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 94,
+    "query": "titan",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Titan moon of Saturn",
+        "confidence": 0.45
+      },
+      {
+        "id": 2,
+        "title": "Titans in Greek mythology",
+        "confidence": 0.25
+      },
+      {
+        "id": 3,
+        "title": "TITAN brand or product lines",
+        "confidence": 0.15
+      },
+      {
+        "id": 4,
+        "title": "Titanic or giant person/thing meaning of titan",
+        "confidence": 0.08
+      },
+      {
+        "id": 5,
+        "title": "Sports teams or media titles named Titan",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 95,
+    "query": "earn money at home",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Ways to make money from home",
+        "confidence": 0.56
+      },
+      {
+        "id": 2,
+        "title": "Remote work or work-from-home jobs",
+        "confidence": 0.26
+      },
+      {
+        "id": 3,
+        "title": "Online side hustles and freelancing",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 96,
+    "query": "rice",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Rice as a food or grain",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Rice University",
+        "confidence": 0.16
+      },
+      {
+        "id": 3,
+        "title": "Rice as a surname or person name",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 97,
+    "query": "south africa",
+    "intents": [
+      {
+        "id": 1,
+        "title": "General information about South Africa",
+        "confidence": 0.42
+      },
+      {
+        "id": 2,
+        "title": "Travel and tourism in South Africa",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "South Africa news and current events",
+        "confidence": 0.16
+      },
+      {
+        "id": 4,
+        "title": "History and politics of South Africa",
+        "confidence": 0.1
+      },
+      {
+        "id": 5,
+        "title": "Economy and business in South Africa",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 98,
+    "query": "sat",
+    "intents": [
+      {
+        "id": 1,
+        "title": "SAT college admissions test",
+        "confidence": 0.84
+      },
+      {
+        "id": 2,
+        "title": "sat as the past tense of sit",
+        "confidence": 0.09
+      },
+      {
+        "id": 3,
+        "title": "satellite or satellite TV abbreviation",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 99,
+    "query": "satellite",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Artificial satellites in space",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Natural satellites such as moons",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "Satellite TV or satellite communications services",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 100,
+    "query": "rincon puerto rico",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Travel and tourism information about Rincón, Puerto Rico",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "General information about the municipality of Rincón, Puerto Rico",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "Surfing in Rincón, Puerto Rico",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 101,
+    "query": "ritz carlton lake las vegas",
+    "intents": [
+      {
+        "id": 1,
+        "title": "The Ritz-Carlton, Lake Las Vegas resort information",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "The former Ritz-Carlton Lake Las Vegas property status or history",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 102,
+    "query": "fickle creek farm",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Specific farm or business named Fickle Creek Farm",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Location, directions, or contact information for Fickle Creek Farm",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 103,
+    "query": "madam cj walker",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Biography and historical significance of Madam C. J. Walker",
+        "confidence": 0.7
+      },
+      {
+        "id": 2,
+        "title": "Madam C. J. Walker hair care products and beauty business",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "The Netflix series about Madam C. J. Walker",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 104,
+    "query": "indiana child support",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Indiana child support program information",
+        "confidence": 0.6
+      },
+      {
+        "id": 2,
+        "title": "Indiana child support payments and case management",
+        "confidence": 0.25
+      },
+      {
+        "id": 3,
+        "title": "Indiana child support laws, guidelines, and calculation",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 105,
+    "query": "sonoma county medical services",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Sonoma County health and medical services information",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Sonoma County Medical Association Services or similarly named healthcare organization",
+        "confidence": 0.14
+      },
+      {
+        "id": 3,
+        "title": "Emergency medical services in Sonoma County",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 106,
+    "query": "universal animal cuts reviews",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Reviews of Universal Animal Cuts fat burner supplement",
+        "confidence": 0.93
+      },
+      {
+        "id": 2,
+        "title": "General information about Universal Animal Cuts supplement",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 107,
+    "query": "cass county missouri",
+    "intents": [
+      {
+        "id": 1,
+        "title": "General information about Cass County, Missouri",
+        "confidence": 0.66
+      },
+      {
+        "id": 2,
+        "title": "Cass County, Missouri government and public services",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Maps, location, and geography of Cass County, Missouri",
+        "confidence": 0.14
+      }
+    ]
+  },
+  {
+    "query_number": 108,
+    "query": "ralph owen brewster",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Biography of Ralph Owen Brewster, U.S. senator and former governor of Maine",
+        "confidence": 0.93
+      },
+      {
+        "id": 2,
+        "title": "Ralph Owen Brewster's role in the Howard Hughes and Pan Am aviation controversy",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 109,
+    "query": "mayo clinic jacksonville fl",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Mayo Clinic Jacksonville, Florida location information",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Mayo Clinic Jacksonville appointments and contact details",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 110,
+    "query": "map of brazil",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Geographic map of Brazil",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Political or administrative map of Brazil",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 111,
+    "query": "lymphoma in dogs",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Canine lymphoma overview, symptoms, diagnosis, and treatment",
+        "confidence": 0.68
+      },
+      {
+        "id": 2,
+        "title": "Prognosis and life expectancy for dogs with lymphoma",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Causes, risk factors, and prevention of lymphoma in dogs",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 112,
+    "query": "kenmore gas water heater",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Kenmore gas water heater product information",
+        "confidence": 0.46
+      },
+      {
+        "id": 2,
+        "title": "Kenmore gas water heater troubleshooting and repair",
+        "confidence": 0.32
+      },
+      {
+        "id": 3,
+        "title": "Kenmore gas water heater manual and installation guidance",
+        "confidence": 0.14
+      },
+      {
+        "id": 4,
+        "title": "Kenmore gas water heater replacement parts",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 113,
+    "query": "hp mini 2140",
+    "intents": [
+      {
+        "id": 1,
+        "title": "HP Mini 2140 laptop",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "HP Mini 2140 specifications and features",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 114,
+    "query": "adobe indian houses",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Adobe houses built by Indigenous peoples in the Americas",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Adobe-style Native American dwellings such as Pueblo homes",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Adobe houses in India",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 115,
+    "query": "pacific northwest laboratory",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Pacific Northwest National Laboratory",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Laboratories or research facilities in the Pacific Northwest region",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 116,
+    "query": "california franchise tax board",
+    "intents": [
+      {
+        "id": 1,
+        "title": "California state tax agency",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Tax filing, payment, or refund services from the California Franchise Tax Board",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 117,
+    "query": "dangers of asbestos",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Health risks of asbestos exposure",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Asbestos hazards in homes or buildings",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 118,
+    "query": "poem in your pocket day",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Poem in Your Pocket Day event information",
+        "confidence": 0.74
+      },
+      {
+        "id": 2,
+        "title": "Poem in Your Pocket Day date",
+        "confidence": 0.16
+      },
+      {
+        "id": 3,
+        "title": "Poem in Your Pocket Day poems and participation ideas",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 119,
+    "query": "interview thank you",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Thank-you message after a job interview",
+        "confidence": 0.84
+      },
+      {
+        "id": 2,
+        "title": "Examples or templates for interview thank-you notes",
+        "confidence": 0.16
+      }
+    ]
+  },
+  {
+    "query_number": 120,
+    "query": "tv on computer",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Watch live TV or streaming television on a computer",
+        "confidence": 0.58
+      },
+      {
+        "id": 2,
+        "title": "Use a computer display output on a TV screen",
+        "confidence": 0.27
+      },
+      {
+        "id": 3,
+        "title": "Watch or access content stored on a computer using a TV",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 121,
+    "query": "sit and reach test",
+    "intents": [
+      {
+        "id": 1,
+        "title": "How to perform the sit and reach flexibility test",
+        "confidence": 0.5
+      },
+      {
+        "id": 2,
+        "title": "Sit and reach test norms and score interpretation",
+        "confidence": 0.3
+      },
+      {
+        "id": 3,
+        "title": "Purpose and validity of the sit and reach test for flexibility assessment",
+        "confidence": 0.2
+      }
+    ]
+  },
+  {
+    "query_number": 122,
+    "query": "culpeper national cemetery",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Culpeper National Cemetery",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "query_number": 123,
+    "query": "von willebrand disease",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Overview of von Willebrand disease",
+        "confidence": 0.34
+      },
+      {
+        "id": 2,
+        "title": "Symptoms and diagnosis of von Willebrand disease",
+        "confidence": 0.25
+      },
+      {
+        "id": 3,
+        "title": "Treatment and management of von Willebrand disease",
+        "confidence": 0.23
+      },
+      {
+        "id": 4,
+        "title": "Types and causes of von Willebrand disease",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 124,
+    "query": "bowflex power pro",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Bowflex Power Pro home gym machine",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Bowflex Power Pro owner's manual or assembly instructions",
+        "confidence": 0.07
+      },
+      {
+        "id": 3,
+        "title": "Bowflex Power Pro replacement parts or repairs",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 125,
+    "query": "butter and margarine",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Comparison between butter and margarine",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Health and nutrition differences of butter and margarine",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "Cooking and baking uses of butter versus margarine",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 126,
+    "query": "us capitol map",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Map of the United States Capitol building",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Map of Capitol Hill or the surrounding U.S. Capitol area",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 127,
+    "query": "dutchess county tourism",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Tourist attractions and things to do in Dutchess County",
+        "confidence": 0.58
+      },
+      {
+        "id": 2,
+        "title": "Official Dutchess County tourism information",
+        "confidence": 0.27
+      },
+      {
+        "id": 3,
+        "title": "Travel planning for visiting Dutchess County",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 128,
+    "query": "atypical squamous cells",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Cervical cytology finding on a Pap test",
+        "confidence": 0.92
+      },
+      {
+        "id": 2,
+        "title": "Squamous cell changes in other body sites or pathology contexts",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 129,
+    "query": "iowa food stamp program",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Iowa SNAP eligibility and application information",
+        "confidence": 0.76
+      },
+      {
+        "id": 2,
+        "title": "Iowa food stamp benefits, income limits, and renewal rules",
+        "confidence": 0.16
+      },
+      {
+        "id": 3,
+        "title": "Iowa EBT card usage and balance information",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 130,
+    "query": "fact on uranus",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Facts about the planet Uranus",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Facts about Uranus from mythology",
+        "confidence": 0.08
+      },
+      {
+        "id": 3,
+        "title": "Humorous or slang references involving “Uranus”",
+        "confidence": 0.04
+      }
+    ]
+  },
+  {
+    "query_number": 131,
+    "query": "equal opportunity employer",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Definition and meaning of equal opportunity employer",
+        "confidence": 0.46
+      },
+      {
+        "id": 2,
+        "title": "Legal requirements for equal opportunity employers",
+        "confidence": 0.31
+      },
+      {
+        "id": 3,
+        "title": "Equal opportunity employer statement for job postings",
+        "confidence": 0.23
+      }
+    ]
+  },
+  {
+    "query_number": 132,
+    "query": "mothers day songs",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Songs for celebrating Mother’s Day",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Mother’s Day-themed songs about mothers",
+        "confidence": 0.28
+      }
+    ]
+  },
+  {
+    "query_number": 133,
+    "query": "all men are created equal",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Meaning and origin of the phrase in the Declaration of Independence",
+        "confidence": 0.58
+      },
+      {
+        "id": 2,
+        "title": "Full quote or source text containing the phrase",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Interpretation in political philosophy or equality rights",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 134,
+    "query": "electronic skeet shoot",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Electronic clay target shooting game or arcade skeet shoot",
+        "confidence": 0.58
+      },
+      {
+        "id": 2,
+        "title": "Electronic skeet shooting system or target release equipment for real skeet shooting",
+        "confidence": 0.32
+      },
+      {
+        "id": 3,
+        "title": "Electronic skeet shooting toy or home game",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 135,
+    "query": "source of the nile",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Origin of the Nile River",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Book or film titled \"The Source of the Nile\"",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 136,
+    "query": "american military university",
+    "intents": [
+      {
+        "id": 1,
+        "title": "American Military University",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Military universities in the United States",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 137,
+    "query": "rock and gem shows",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Find local rock and gem shows or event schedules",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "General information about rock and gem shows",
+        "confidence": 0.14
+      },
+      {
+        "id": 3,
+        "title": "Vendors or exhibitors at rock and gem shows",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 138,
+    "query": "jax chemical company",
+    "intents": [
+      {
+        "id": 1,
+        "title": "JAX Chemical Company business information",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "JAX Chemical Company products and applications",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 139,
+    "query": "rocky mountain news",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Defunct Denver newspaper",
+        "confidence": 0.93
+      },
+      {
+        "id": 2,
+        "title": "News about the Rocky Mountain region",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 140,
+    "query": "east ridge high school",
+    "intents": [
+      {
+        "id": 1,
+        "title": "A specific school named East Ridge High School",
+        "confidence": 0.84
+      },
+      {
+        "id": 2,
+        "title": "Different high schools with the same or similar name",
+        "confidence": 0.16
+      }
+    ]
+  },
+  {
+    "query_number": 141,
+    "query": "va dmv registration",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Virginia DMV vehicle registration",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Virginia DMV registration renewal",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 142,
+    "query": "illinois state tax",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Illinois state income tax information",
+        "confidence": 0.5
+      },
+      {
+        "id": 2,
+        "title": "Illinois state tax filing and payment procedures",
+        "confidence": 0.22
+      },
+      {
+        "id": 3,
+        "title": "Illinois Department of Revenue and official tax resources",
+        "confidence": 0.16
+      },
+      {
+        "id": 4,
+        "title": "Illinois state sales and use tax information",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 143,
+    "query": "arkadelphia health club",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Arkadelphia Health Club in Arkadelphia, Arkansas",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Health clubs or gyms in Arkadelphia, Arkansas",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 144,
+    "query": "trombone for sale",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Buy a trombone instrument",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Used trombone listings or resale market",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 145,
+    "query": "vines for shade",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Best climbing plants or vines to create shade",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Fast-growing vines suitable for shading pergolas, fences, or patios",
+        "confidence": 0.14
+      },
+      {
+        "id": 3,
+        "title": "Shade-tolerant vines for low-light garden areas",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 146,
+    "query": "sherwood regional library",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Sherwood Regional Library branch information",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Services, hours, and events at Sherwood Regional Library",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 147,
+    "query": "tangible personal property tax",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Definition and applicability of tangible personal property tax",
+        "confidence": 0.38
+      },
+      {
+        "id": 2,
+        "title": "How tangible personal property tax is calculated and assessed",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Filing, payment, and compliance requirements for tangible personal property tax",
+        "confidence": 0.2
+      },
+      {
+        "id": 4,
+        "title": "Exemptions, deductions, and items subject to tangible personal property tax",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 148,
+    "query": "martha stewart and imclone",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Martha Stewart’s insider trading scandal involving ImClone",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "The relationship between Martha Stewart and ImClone Systems",
+        "confidence": 0.22
+      }
+    ]
+  },
+  {
+    "query_number": 149,
+    "query": "uplift at yellowstone national park",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Geologic uplift and volcanic ground deformation in Yellowstone National Park",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Elevation gain or uphill hiking routes in Yellowstone National Park",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 150,
+    "query": "tn highway patrol",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Tennessee Highway Patrol",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Information about highway patrol services in Tennessee",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 151,
+    "query": "403b",
+    "intents": [
+      {
+        "id": 1,
+        "title": "403(b) retirement plan",
+        "confidence": 0.96
+      },
+      {
+        "id": 2,
+        "title": "Meaning of 403(b) tax code designation",
+        "confidence": 0.04
+      }
+    ]
+  },
+  {
+    "query_number": 152,
+    "query": "angular cheilitis",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Medical condition affecting the corners of the mouth",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Causes and risk factors of angular cheilitis",
+        "confidence": 0.07
+      },
+      {
+        "id": 3,
+        "title": "Treatment and home care for angular cheilitis",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 153,
+    "query": "pocono",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Pocono Mountains region in Pennsylvania",
+        "confidence": 0.74
+      },
+      {
+        "id": 2,
+        "title": "Pocono Raceway",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "Pocono area travel, resorts, and attractions",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 154,
+    "query": "figs",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Figs fruit",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "FIGS medical scrubs brand",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 155,
+    "query": "last supper painting",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Leonardo da Vinci's The Last Supper painting",
+        "confidence": 0.93
+      },
+      {
+        "id": 2,
+        "title": "Depictions of the Last Supper in Christian art",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 156,
+    "query": "university of phoenix",
+    "intents": [
+      {
+        "id": 1,
+        "title": "University of Phoenix institution information",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "University of Phoenix admissions and enrollment",
+        "confidence": 0.12
+      },
+      {
+        "id": 3,
+        "title": "University of Phoenix tuition, accreditation, and reputation",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 157,
+    "query": "the beatles rock band",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Information about The Beatles as a rock band",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "query_number": 158,
+    "query": "septic system design",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Residential septic system layout and sizing",
+        "confidence": 0.46
+      },
+      {
+        "id": 2,
+        "title": "Septic tank and drain field design requirements",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Permitting codes and regulations for septic design",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Alternative or engineered septic system design",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 159,
+    "query": "porterville",
+    "intents": [
+      {
+        "id": 1,
+        "title": "City of Porterville, California",
+        "confidence": 0.92
+      },
+      {
+        "id": 2,
+        "title": "Porterville-related local information (schools, news, businesses, services)",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 160,
+    "query": "grilling",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Outdoor cooking over a grill",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Interrogating or questioning someone intensely",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 161,
+    "query": "furniture for small spaces",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Space-saving furniture ideas and recommendations",
+        "confidence": 0.52
+      },
+      {
+        "id": 2,
+        "title": "Compact multifunctional furniture for small apartments",
+        "confidence": 0.28
+      },
+      {
+        "id": 3,
+        "title": "Where to buy furniture designed for small spaces",
+        "confidence": 0.2
+      }
+    ]
+  },
+  {
+    "query_number": 162,
+    "query": "dnr",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Do Not Resuscitate medical order",
+        "confidence": 0.62
+      },
+      {
+        "id": 2,
+        "title": "Department of Natural Resources government agency",
+        "confidence": 0.3
+      },
+      {
+        "id": 3,
+        "title": "Dynamic Noise Reduction electronics feature",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 163,
+    "query": "arkansas",
+    "intents": [
+      {
+        "id": 1,
+        "title": "U.S. state of Arkansas",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "University of Arkansas",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 164,
+    "query": "hobby stores",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Local hobby shops and store locations",
+        "confidence": 0.68
+      },
+      {
+        "id": 2,
+        "title": "Online hobby stores for purchasing supplies",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Types of products sold by hobby stores",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 165,
+    "query": "blue throated hummingbird",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Blue-throated hummingbird species information",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Identification of a blue-throated hummingbird",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 166,
+    "query": "computer programming",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Learning computer programming",
+        "confidence": 0.4
+      },
+      {
+        "id": 2,
+        "title": "Computer programming concepts and fundamentals",
+        "confidence": 0.25
+      },
+      {
+        "id": 3,
+        "title": "Programming languages and tools",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Computer programming careers and jobs",
+        "confidence": 0.1
+      },
+      {
+        "id": 5,
+        "title": "History and overview of computer programming",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 167,
+    "query": "barbados",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Travel and tourism information about Barbados",
+        "confidence": 0.44
+      },
+      {
+        "id": 2,
+        "title": "General information about the country Barbados",
+        "confidence": 0.31
+      },
+      {
+        "id": 3,
+        "title": "Barbados maps, location, and geography",
+        "confidence": 0.13
+      },
+      {
+        "id": 4,
+        "title": "Barbados government, visas, and official services",
+        "confidence": 0.07
+      },
+      {
+        "id": 5,
+        "title": "Barbados culture, beaches, and local attractions",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 168,
+    "query": "lipoma",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Lipoma medical condition",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "query_number": 169,
+    "query": "battles in the civil war",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Battles of the American Civil War",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Battles of the English Civil War",
+        "confidence": 0.12
+      },
+      {
+        "id": 3,
+        "title": "Battles of the Spanish Civil War",
+        "confidence": 0.06
+      },
+      {
+        "id": 4,
+        "title": "Battles of the Russian Civil War",
+        "confidence": 0.04
+      }
+    ]
+  },
+  {
+    "query_number": 170,
+    "query": "scooters",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Motor scooters and riding scooters",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Electric scooters",
+        "confidence": 0.17
+      },
+      {
+        "id": 3,
+        "title": "Mobility scooters",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 171,
+    "query": "ron howard",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Ron Howard the filmmaker and actor",
+        "confidence": 0.95
+      },
+      {
+        "id": 2,
+        "title": "Other people named Ron Howard",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 172,
+    "query": "becoming a paralegal",
+    "intents": [
+      {
+        "id": 1,
+        "title": "How to become a paralegal",
+        "confidence": 0.62
+      },
+      {
+        "id": 2,
+        "title": "Paralegal education and certification requirements",
+        "confidence": 0.23
+      },
+      {
+        "id": 3,
+        "title": "Paralegal career path, salary, and job outlook",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 173,
+    "query": "hip fractures",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Hip fractures overview, symptoms, diagnosis, and treatment",
+        "confidence": 0.58
+      },
+      {
+        "id": 2,
+        "title": "Recovery and rehabilitation after hip fractures",
+        "confidence": 0.22
+      },
+      {
+        "id": 3,
+        "title": "Causes, risk factors, and prevention of hip fractures",
+        "confidence": 0.2
+      }
+    ]
+  },
+  {
+    "query_number": 174,
+    "query": "rock art",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Prehistoric or ancient rock art",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Artwork depicting rock music or rock culture",
+        "confidence": 0.12
+      },
+      {
+        "id": 3,
+        "title": "Art made using rocks or stones",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 175,
+    "query": "signs of a heartattack",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Symptoms and warning signs of a heart attack",
+        "confidence": 0.96
+      },
+      {
+        "id": 2,
+        "title": "Differences between heart attack signs and other conditions",
+        "confidence": 0.04
+      }
+    ]
+  },
+  {
+    "query_number": 176,
+    "query": "weather strip",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Weatherstripping for doors or windows",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "A geographic place named Weather Strip",
+        "confidence": 0.1
+      },
+      {
+        "id": 3,
+        "title": "Weather strip as a misspacing of weather forecast strip or weather graphic",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 177,
+    "query": "best long term care insurance",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Compare the best long-term care insurance policies or providers",
+        "confidence": 0.7
+      },
+      {
+        "id": 2,
+        "title": "Learn how to choose long-term care insurance for future care needs",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Find reviews, ratings, and recommendations for long-term care insurance",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 178,
+    "query": "pork tenderloin",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Pork tenderloin recipes and cooking methods",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "What pork tenderloin is and how it differs from other cuts",
+        "confidence": 0.14
+      },
+      {
+        "id": 3,
+        "title": "Buying, trimming, and preparing pork tenderloin",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 179,
+    "query": "black history",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Black History Month information",
+        "confidence": 0.6
+      },
+      {
+        "id": 2,
+        "title": "History of Black people and the African diaspora",
+        "confidence": 0.4
+      }
+    ]
+  },
+  {
+    "query_number": 180,
+    "query": "newyork hotels",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Hotels in New York City",
+        "confidence": 0.92
+      },
+      {
+        "id": 2,
+        "title": "Hotels in New York State outside New York City",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 181,
+    "query": "old coins",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Collectible antique coins",
+        "confidence": 0.7
+      },
+      {
+        "id": 2,
+        "title": "Identifying and valuing old coins",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Historical coins from past eras",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 182,
+    "query": "quit smoking",
+    "intents": [
+      {
+        "id": 1,
+        "title": "How to stop smoking",
+        "confidence": 0.55
+      },
+      {
+        "id": 2,
+        "title": "Health benefits of quitting smoking",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Smoking cessation aids and treatments",
+        "confidence": 0.15
+      },
+      {
+        "id": 4,
+        "title": "Withdrawal symptoms and coping strategies",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 183,
+    "query": "kansas city mo",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Kansas City, Missouri city information",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Kansas City, Missouri travel and attractions",
+        "confidence": 0.14
+      },
+      {
+        "id": 3,
+        "title": "Kansas City, Missouri map, directions, or location",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 184,
+    "query": "civil right movement",
+    "intents": [
+      {
+        "id": 1,
+        "title": "U.S. Civil Rights Movement",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Overview and history of the civil rights movement",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 185,
+    "query": "credit report",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Obtain or check a personal credit report",
+        "confidence": 0.58
+      },
+      {
+        "id": 2,
+        "title": "Understand what a credit report is and what it contains",
+        "confidence": 0.22
+      },
+      {
+        "id": 3,
+        "title": "Dispute errors or fix issues on a credit report",
+        "confidence": 0.12
+      },
+      {
+        "id": 4,
+        "title": "Learn how a credit report affects credit score and lending decisions",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 186,
+    "query": "unc",
+    "intents": [
+      {
+        "id": 1,
+        "title": "University of North Carolina at Chapel Hill",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Universal Naming Convention",
+        "confidence": 0.08
+      },
+      {
+        "id": 3,
+        "title": "University of Northern Colorado",
+        "confidence": 0.04
+      }
+    ]
+  },
+  {
+    "query_number": 187,
+    "query": "vanuatu",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Country information about Vanuatu",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Travel and tourism in Vanuatu",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "News and current events in Vanuatu",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 188,
+    "query": "internet phone service",
+    "intents": [
+      {
+        "id": 1,
+        "title": "VoIP home or business phone service over the internet",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Internet service bundled with phone service",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "How phone service works using an internet connection",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 189,
+    "query": "gs pay rate",
+    "intents": [
+      {
+        "id": 1,
+        "title": "U.S. federal General Schedule pay scale",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Pay rates for GS employees by grade and step",
+        "confidence": 0.14
+      },
+      {
+        "id": 3,
+        "title": "Goldman Sachs pay rate or salary information",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 190,
+    "query": "brooks brothers clearance",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Brooks Brothers clearance sale products",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Brooks Brothers outlet or clearance store locations",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 191,
+    "query": "churchill downs",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Churchill Downs racetrack and horse racing venue",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Churchill Downs Incorporated company",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 192,
+    "query": "condos in florida",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Find condos for sale in Florida",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Find condos for rent in Florida",
+        "confidence": 0.22
+      },
+      {
+        "id": 3,
+        "title": "General information about condo living or buying in Florida",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 193,
+    "query": "dog clean up bags",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Dog waste bags for picking up poop",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Dog waste bag dispensers or bag holders",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 194,
+    "query": "designer dog breeds",
+    "intents": [
+      {
+        "id": 1,
+        "title": "List and overview of designer dog breeds",
+        "confidence": 0.44
+      },
+      {
+        "id": 2,
+        "title": "Popular designer dog breeds and examples",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Designer dog breeds characteristics and temperament",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Designer dog breeds health, care, and grooming",
+        "confidence": 0.14
+      }
+    ]
+  },
+  {
+    "query_number": 195,
+    "query": "pressure washers",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Buying pressure washers",
+        "confidence": 0.46
+      },
+      {
+        "id": 2,
+        "title": "Pressure washer types and features",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Pressure washer use and operation",
+        "confidence": 0.16
+      },
+      {
+        "id": 4,
+        "title": "Pressure washer maintenance and repair",
+        "confidence": 0.09
+      },
+      {
+        "id": 5,
+        "title": "Pressure washer safety",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 196,
+    "query": "sore throat",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Causes and treatment of a sore throat",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Symptoms and diagnosis of conditions causing a sore throat",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "When a sore throat requires medical attention",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 197,
+    "query": "idaho state flower",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Official state flower of Idaho",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "query_number": 198,
+    "query": "indiana state fairgrounds",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Indiana State Fairgrounds venue information",
+        "confidence": 0.76
+      },
+      {
+        "id": 2,
+        "title": "Events at the Indiana State Fairgrounds",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "Indiana State Fair held at the fairgrounds",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 199,
+    "query": "fybromyalgia",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Fibromyalgia",
+        "confidence": 0.98
+      },
+      {
+        "id": 2,
+        "title": "Typo correction or spelling of fibromyalgia",
+        "confidence": 0.02
+      }
+    ]
+  },
+  {
+    "query_number": 200,
+    "query": "ontario california airport",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Ontario International Airport in Ontario, California",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Flights and travel information for Ontario International Airport",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 201,
+    "query": "raspberry pi",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Single-board computer platform",
+        "confidence": 0.62
+      },
+      {
+        "id": 2,
+        "title": "Setup and beginner getting started guidance",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "Projects and DIY applications",
+        "confidence": 0.12
+      },
+      {
+        "id": 4,
+        "title": "Models, specifications, and buying information",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 202,
+    "query": "uss carl vinson",
+    "intents": [
+      {
+        "id": 1,
+        "title": "USS Carl Vinson aircraft carrier",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Carl Vinson the U.S. congressman and namesake",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 203,
+    "query": "reviews of les miserables",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Reviews of the novel Les Misérables",
+        "confidence": 0.52
+      },
+      {
+        "id": 2,
+        "title": "Reviews of the musical Les Misérables",
+        "confidence": 0.33
+      },
+      {
+        "id": 3,
+        "title": "Reviews of a film adaptation of Les Misérables",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 204,
+    "query": "rules of golf",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Official rules of golf",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Basic rules and how to play golf",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 205,
+    "query": "average charitable donation",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Statistics on the average amount people donate to charity",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Average charitable donation by demographic or household segment",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "How average charitable donations are calculated or measured",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 206,
+    "query": "wind power",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Wind power as renewable energy generation",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "How wind power works and turbine technology",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "Benefits, drawbacks, and environmental impact of wind power",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 207,
+    "query": "bph treatment",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Medical treatment options for benign prostatic hyperplasia",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Medications for benign prostatic hyperplasia",
+        "confidence": 0.12
+      },
+      {
+        "id": 3,
+        "title": "Surgical or minimally invasive treatment for benign prostatic hyperplasia",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 208,
+    "query": "doctor zhivago",
+    "intents": [
+      {
+        "id": 1,
+        "title": "The novel Doctor Zhivago by Boris Pasternak",
+        "confidence": 0.58
+      },
+      {
+        "id": 2,
+        "title": "The film adaptation of Doctor Zhivago",
+        "confidence": 0.42
+      }
+    ]
+  },
+  {
+    "query_number": 209,
+    "query": "land surveyor",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Land surveying profession",
+        "confidence": 0.58
+      },
+      {
+        "id": 2,
+        "title": "Hiring or finding a land surveyor",
+        "confidence": 0.27
+      },
+      {
+        "id": 3,
+        "title": "Land surveyor licensing, certification, or training",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 210,
+    "query": "golf gps",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Golf GPS devices and watches",
+        "confidence": 0.62
+      },
+      {
+        "id": 2,
+        "title": "Golf GPS apps for smartphones",
+        "confidence": 0.28
+      },
+      {
+        "id": 3,
+        "title": "How golf GPS works for course distances and navigation",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 211,
+    "query": "what is madagascar known for",
+    "intents": [
+      {
+        "id": 1,
+        "title": "General facts and notable features of Madagascar",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Madagascar wildlife and biodiversity",
+        "confidence": 0.14
+      },
+      {
+        "id": 3,
+        "title": "Madagascar culture, products, and tourism highlights",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 212,
+    "query": "home theater systems",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Buying and comparing home theater systems",
+        "confidence": 0.5
+      },
+      {
+        "id": 2,
+        "title": "Setting up and installing a home theater system",
+        "confidence": 0.25
+      },
+      {
+        "id": 3,
+        "title": "Home theater system components and configurations",
+        "confidence": 0.15
+      },
+      {
+        "id": 4,
+        "title": "Troubleshooting home theater system audio or connectivity issues",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 213,
+    "query": "carpal tunnel syndrome",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Symptoms, causes, and treatment of carpal tunnel syndrome",
+        "confidence": 0.62
+      },
+      {
+        "id": 2,
+        "title": "Diagnosis and clinical evaluation of carpal tunnel syndrome",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Exercises, prevention, and ergonomic management for carpal tunnel syndrome",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 214,
+    "query": "capital gains tax rate",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Current capital gains tax rates",
+        "confidence": 0.48
+      },
+      {
+        "id": 2,
+        "title": "Long-term vs short-term capital gains tax rates",
+        "confidence": 0.27
+      },
+      {
+        "id": 3,
+        "title": "Capital gains tax rates by income bracket",
+        "confidence": 0.15
+      },
+      {
+        "id": 4,
+        "title": "Federal vs state capital gains tax rates",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 215,
+    "query": "maryland department of natural resources",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Maryland Department of Natural Resources official agency",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Services and information offered by the Maryland Department of Natural Resources",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 216,
+    "query": "nicolas cage movies",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Filmography and list of Nicolas Cage movies",
+        "confidence": 0.74
+      },
+      {
+        "id": 2,
+        "title": "Best or most popular Nicolas Cage movies",
+        "confidence": 0.16
+      },
+      {
+        "id": 3,
+        "title": "New or upcoming Nicolas Cage movies",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 217,
+    "query": "kids earth day activities",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Earth Day crafts and hands-on activities for kids",
+        "confidence": 0.46
+      },
+      {
+        "id": 2,
+        "title": "Educational Earth Day lesson ideas and learning activities for kids",
+        "confidence": 0.27
+      },
+      {
+        "id": 3,
+        "title": "Outdoor or community Earth Day activities for kids",
+        "confidence": 0.17
+      },
+      {
+        "id": 4,
+        "title": "Printable Earth Day worksheets and games for kids",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 218,
+    "query": "solar water fountains",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Buying solar-powered water fountains",
+        "confidence": 0.58
+      },
+      {
+        "id": 2,
+        "title": "How solar water fountains work",
+        "confidence": 0.17
+      },
+      {
+        "id": 3,
+        "title": "Installing or setting up solar water fountains",
+        "confidence": 0.13
+      },
+      {
+        "id": 4,
+        "title": "Maintenance and troubleshooting for solar water fountains",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 219,
+    "query": "what was the name of elvis presley's home",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Name of Elvis Presley's home",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "query_number": 220,
+    "query": "nba records",
+    "intents": [
+      {
+        "id": 1,
+        "title": "NBA all-time player and team records",
+        "confidence": 0.52
+      },
+      {
+        "id": 2,
+        "title": "Current NBA standings and win-loss records",
+        "confidence": 0.33
+      },
+      {
+        "id": 3,
+        "title": "NBA historical statistical leaders and milestones",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 221,
+    "query": "electoral college 2008 results",
+    "intents": [
+      {
+        "id": 1,
+        "title": "2008 U.S. presidential Electoral College vote results",
+        "confidence": 0.92
+      },
+      {
+        "id": 2,
+        "title": "State-by-state 2008 Electoral College results and electoral vote allocation",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 222,
+    "query": "male menopause",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Andropause or age-related testosterone decline in men",
+        "confidence": 0.84
+      },
+      {
+        "id": 2,
+        "title": "Whether male menopause is a real medical condition",
+        "confidence": 0.16
+      }
+    ]
+  },
+  {
+    "query_number": 223,
+    "query": "usda food pyramid",
+    "intents": [
+      {
+        "id": 1,
+        "title": "USDA Food Pyramid dietary guidelines",
+        "confidence": 0.76
+      },
+      {
+        "id": 2,
+        "title": "History and replacement of the USDA Food Pyramid by MyPyramid/MyPlate",
+        "confidence": 0.24
+      }
+    ]
+  },
+  {
+    "query_number": 224,
+    "query": "making chicken soup from scratch",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Homemade chicken soup recipe",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "How to make chicken broth or stock from scratch for soup",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 225,
+    "query": "black and gold",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Black and gold color combination",
+        "confidence": 0.5
+      },
+      {
+        "id": 2,
+        "title": "Pittsburgh Steelers team colors or branding",
+        "confidence": 0.22
+      },
+      {
+        "id": 3,
+        "title": "Black and Gold song or music title",
+        "confidence": 0.15
+      },
+      {
+        "id": 4,
+        "title": "Black and Gold beer brand",
+        "confidence": 0.08
+      },
+      {
+        "id": 5,
+        "title": "Black and Gold clothing, decor, or product style",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 226,
+    "query": "traverse city",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Traverse City, Michigan",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "City traversal in graphs or pathfinding",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 227,
+    "query": "i will survive lyrics",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Lyrics to the song \"I Will Survive\"",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "\"I Will Survive\" song information",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 228,
+    "query": "hawaiian volcano observatories",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Hawaiian Volcano Observatory",
+        "confidence": 0.92
+      },
+      {
+        "id": 2,
+        "title": "Volcano observatories in Hawaii",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 229,
+    "query": "beef stroganoff recipe",
+    "intents": [
+      {
+        "id": 1,
+        "title": "How to make beef stroganoff",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Ingredients for beef stroganoff",
+        "confidence": 0.14
+      },
+      {
+        "id": 3,
+        "title": "Beef stroganoff cooking time and method",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 230,
+    "query": "world's biggest dog",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Largest dog breed",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Biggest individual dog on record",
+        "confidence": 0.28
+      }
+    ]
+  },
+  {
+    "query_number": 231,
+    "query": "what are the seven deadly sins",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Definition and list of the seven deadly sins in Christian tradition",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Religious meaning and moral significance of the seven deadly sins",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 232,
+    "query": "hurricane Irene flooding in manville nj",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Information about flooding in Manville, New Jersey during Hurricane Irene",
+        "confidence": 0.93
+      },
+      {
+        "id": 2,
+        "title": "Historical impacts and damage from Hurricane Irene in Manville, New Jersey",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 233,
+    "query": "hair dye",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Hair dye products and types",
+        "confidence": 0.32
+      },
+      {
+        "id": 2,
+        "title": "How to dye hair",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Best hair dye for specific needs",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Hair dye safety and side effects",
+        "confidence": 0.14
+      },
+      {
+        "id": 5,
+        "title": "Hair dye color results and maintenance",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 234,
+    "query": "dark chocolate health benefits",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Nutritional and medical benefits of dark chocolate",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Scientific evidence and risks related to dark chocolate consumption",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 235,
+    "query": "ham radio",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Amateur radio as a hobby and communication service",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Ham radio equipment and transceivers",
+        "confidence": 0.14
+      },
+      {
+        "id": 3,
+        "title": "Getting licensed to operate amateur radio",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 236,
+    "query": "symptoms of mad cow disease in humans",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Human symptoms of variant Creutzfeldt-Jakob disease related to mad cow disease",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Whether humans can get mad cow disease and how it presents",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 237,
+    "query": "lump in throat",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Sensation of a lump in the throat (globus sensation)",
+        "confidence": 0.7
+      },
+      {
+        "id": 2,
+        "title": "Causes of a lump in the throat sensation",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Treatment or relief for a lump in the throat sensation",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 238,
+    "query": "george bush sr bio",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Biography of George H. W. Bush",
+        "confidence": 0.98
+      },
+      {
+        "id": 2,
+        "title": "Biography of George W. Bush",
+        "confidence": 0.02
+      }
+    ]
+  },
+  {
+    "query_number": 239,
+    "query": "frank lloyd wright biography",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Biography of architect Frank Lloyd Wright",
+        "confidence": 0.97
+      },
+      {
+        "id": 2,
+        "title": "Books or biographical works about Frank Lloyd Wright",
+        "confidence": 0.03
+      }
+    ]
+  },
+  {
+    "query_number": 240,
+    "query": "presidential middle names",
+    "intents": [
+      {
+        "id": 1,
+        "title": "List of U.S. presidents' middle names",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Which U.S. presidents had no middle name",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 241,
+    "query": "what is a wiki",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Definition of a wiki",
+        "confidence": 0.84
+      },
+      {
+        "id": 2,
+        "title": "How a wiki works",
+        "confidence": 0.16
+      }
+    ]
+  },
+  {
+    "query_number": 242,
+    "query": "cannellini beans",
+    "intents": [
+      {
+        "id": 1,
+        "title": "What cannellini beans are and how to use them in cooking",
+        "confidence": 0.74
+      },
+      {
+        "id": 2,
+        "title": "Nutrition and health information about cannellini beans",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "How to cook, soak, or prepare dried cannellini beans",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 243,
+    "query": "afghanistan flag",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Current national flag of Afghanistan",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "History and changes of Afghanistan’s flags",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Meaning and symbolism of the Afghanistan flag",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 244,
+    "query": "old town scottsdale",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Visitor information and attractions in Old Town Scottsdale",
+        "confidence": 0.62
+      },
+      {
+        "id": 2,
+        "title": "Dining, bars, and nightlife in Old Town Scottsdale",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Shopping and art galleries in Old Town Scottsdale",
+        "confidence": 0.1
+      },
+      {
+        "id": 4,
+        "title": "Hotels and places to stay near Old Town Scottsdale",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 245,
+    "query": "roosevelt island",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Roosevelt Island in New York City",
+        "confidence": 0.93
+      },
+      {
+        "id": 2,
+        "title": "Roosevelt Island in Washington, D.C.",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 246,
+    "query": "civil war battles in South Carolina",
+    "intents": [
+      {
+        "id": 1,
+        "title": "List or overview of American Civil War battles fought in South Carolina",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Information about specific Civil War battle sites in South Carolina",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 247,
+    "query": "rain man",
+    "intents": [
+      {
+        "id": 1,
+        "title": "1988 film starring Dustin Hoffman and Tom Cruise",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "Rain Man character or plot information",
+        "confidence": 0.1
+      },
+      {
+        "id": 3,
+        "title": "Rain Man soundtrack or music",
+        "confidence": 0.05
+      },
+      {
+        "id": 4,
+        "title": "Rainman nickname associated with a weather forecaster or public figure",
+        "confidence": 0.03
+      }
+    ]
+  },
+  {
+    "query_number": 248,
+    "query": "eggs shelf life",
+    "intents": [
+      {
+        "id": 1,
+        "title": "How long eggs stay safe or fresh in storage",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "How storage conditions affect egg shelf life",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 249,
+    "query": "occupational therapist",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Career information and job duties of an occupational therapist",
+        "confidence": 0.34
+      },
+      {
+        "id": 2,
+        "title": "How to become an occupational therapist",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Finding an occupational therapist or occupational therapy services",
+        "confidence": 0.2
+      },
+      {
+        "id": 4,
+        "title": "Occupational therapist salary and job outlook",
+        "confidence": 0.12
+      },
+      {
+        "id": 5,
+        "title": "What occupational therapy is and how an occupational therapist helps patients",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 250,
+    "query": "ford edge problems",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Common mechanical and reliability issues with the Ford Edge vehicle",
+        "confidence": 0.84
+      },
+      {
+        "id": 2,
+        "title": "Specific diagnostic or repair advice for a problem on a Ford Edge",
+        "confidence": 0.16
+      }
+    ]
+  },
+  {
+    "query_number": 251,
+    "query": "identifying spider bites",
+    "intents": [
+      {
+        "id": 1,
+        "title": "How to recognize whether a skin lesion is a spider bite",
+        "confidence": 0.62
+      },
+      {
+        "id": 2,
+        "title": "Identifying which spider species caused a bite based on symptoms or bite appearance",
+        "confidence": 0.23
+      },
+      {
+        "id": 3,
+        "title": "Medical guidance on symptoms of dangerous spider bites and when to seek care",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 252,
+    "query": "history of orcas island",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Historical background of Orcas Island, Washington",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Origin and naming history of Orcas Island",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 253,
+    "query": "tooth abscess",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Symptoms, causes, and treatment of a tooth abscess",
+        "confidence": 0.58
+      },
+      {
+        "id": 2,
+        "title": "Emergency care and when to see a dentist for a tooth abscess",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Home relief and pain management for a tooth abscess",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 254,
+    "query": "barrett's esophagus",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Medical condition Barrett's esophagus",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "query_number": 255,
+    "query": "teddy bears",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Stuffed toy bears",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "The Teddy Bears music group",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 256,
+    "query": "patron saint of mental illness",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Saint associated with mental illness",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Catholic patron saint for mental health conditions or emotional suffering",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 257,
+    "query": "holes by louis sachar",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Information about the novel \"Holes\" by Louis Sachar",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Summary or analysis of \"Holes\" by Louis Sachar",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 258,
+    "query": "hip roof",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Hip roof design and construction",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Hip roof definition and characteristics",
+        "confidence": 0.22
+      }
+    ]
+  },
+  {
+    "query_number": 259,
+    "query": "carpenter bee",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Information about carpenter bees as insects",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "How to identify, prevent, or treat carpenter bee damage",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 260,
+    "query": "the american revolutionary",
+    "intents": [
+      {
+        "id": 1,
+        "title": "The American Revolution",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "A person described as an American revolutionary",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "A specific work or title named \"The American Revolutionary\"",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 261,
+    "query": "folk remedies sore throat",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Home remedies for relieving sore throat symptoms",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Effectiveness and safety of traditional or folk sore throat remedies",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 262,
+    "query": "balding cure",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Treatments to stop or reverse hair loss",
+        "confidence": 0.74
+      },
+      {
+        "id": 2,
+        "title": "Permanent restoration options for baldness",
+        "confidence": 0.16
+      },
+      {
+        "id": 3,
+        "title": "Natural or home remedies for balding",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 263,
+    "query": "evidence for evolution",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Scientific evidence supporting biological evolution",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Examples and types of evidence for evolution taught in education",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 264,
+    "query": "tribe formerly living in alabama",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Historical Native American tribe formerly living in Alabama",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Specific tribe name associated with former habitation in Alabama",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 265,
+    "query": "F5 tornado",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Information about the F5 tornado intensity rating",
+        "confidence": 0.84
+      },
+      {
+        "id": 2,
+        "title": "Information about a specific tornado described as an F5 tornado",
+        "confidence": 0.16
+      }
+    ]
+  },
+  {
+    "query_number": 266,
+    "query": "symptoms of heart attack",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Heart attack symptoms and warning signs",
+        "confidence": 0.96
+      },
+      {
+        "id": 2,
+        "title": "Symptoms of heart attack in women",
+        "confidence": 0.04
+      }
+    ]
+  },
+  {
+    "query_number": 267,
+    "query": "feliz navidad lyrics",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Lyrics to the song “Feliz Navidad” by José Feliciano",
+        "confidence": 0.97
+      },
+      {
+        "id": 2,
+        "title": "Lyrics translation or meaning of “Feliz Navidad”",
+        "confidence": 0.03
+      }
+    ]
+  },
+  {
+    "query_number": 268,
+    "query": "benefits of running",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Health and fitness benefits of running exercise",
+        "confidence": 0.94
+      },
+      {
+        "id": 2,
+        "title": "Advantages of running in a business or operational context",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 269,
+    "query": "marshall county schools",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Marshall County school district information",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Marshall County Schools in Kentucky",
+        "confidence": 0.16
+      },
+      {
+        "id": 3,
+        "title": "Marshall County Schools in Alabama",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 270,
+    "query": "sun tzu",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Sun Tzu the ancient Chinese military strategist and author of The Art of War",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Quotations or teachings attributed to Sun Tzu",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 271,
+    "query": "halloween activities for middle school",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Classroom Halloween activities for middle school students",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Halloween party games and group activities for middle schoolers",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "Educational Halloween-themed lesson ideas for middle school",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 272,
+    "query": "dreams interpretation",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Meaning of dreams and common dream symbolism",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Methods and psychology of interpreting dreams",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "Spiritual or religious dream interpretation",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 273,
+    "query": "wilson's disease",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Medical condition involving copper accumulation in the body",
+        "confidence": 0.93
+      },
+      {
+        "id": 2,
+        "title": "Information on symptoms, diagnosis, and treatment of Wilson's disease",
+        "confidence": 0.07
+      }
+    ]
+  },
+  {
+    "query_number": 274,
+    "query": "golf instruction",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Golf swing and technique lessons",
+        "confidence": 0.62
+      },
+      {
+        "id": 2,
+        "title": "Beginner golf fundamentals and how to play",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Golf coaching, training, or lesson resources",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 275,
+    "query": "uss cole",
+    "intents": [
+      {
+        "id": 1,
+        "title": "USS Cole destroyer bombing",
+        "confidence": 0.84
+      },
+      {
+        "id": 2,
+        "title": "USS Cole warship history and specifications",
+        "confidence": 0.16
+      }
+    ]
+  },
+  {
+    "query_number": 276,
+    "query": "how has african american music influence history",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Historical impact of African American music on society and culture",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Influence of African American music on the development of other music genres",
+        "confidence": 0.2
+      },
+      {
+        "id": 3,
+        "title": "Role of African American music in social and political change throughout history",
+        "confidence": 0.08
+      }
+    ]
+  },
+  {
+    "query_number": 277,
+    "query": "bewitched cast",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Cast of the TV series Bewitched",
+        "confidence": 0.95
+      },
+      {
+        "id": 2,
+        "title": "Cast of the 2005 film Bewitched",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 278,
+    "query": "mister rogers",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Fred Rogers, the television host and educator",
+        "confidence": 0.8
+      },
+      {
+        "id": 2,
+        "title": "Mister Rogers' Neighborhood, the children's television program",
+        "confidence": 0.2
+      }
+    ]
+  },
+  {
+    "query_number": 279,
+    "query": "game theory",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Game theory fundamentals and concepts",
+        "confidence": 0.34
+      },
+      {
+        "id": 2,
+        "title": "Game theory applications in economics and social sciences",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Game theory strategies, equilibrium, and solution methods",
+        "confidence": 0.19
+      },
+      {
+        "id": 4,
+        "title": "Game theory examples and classic games",
+        "confidence": 0.13
+      },
+      {
+        "id": 5,
+        "title": "Learning resources for game theory",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 280,
+    "query": "view my internet history",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Check browsing history in a web browser",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "View internet activity recorded by an ISP or network administrator",
+        "confidence": 0.12
+      },
+      {
+        "id": 3,
+        "title": "Recover or access deleted browsing history",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 281,
+    "query": "ketogenic diet",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Ketogenic diet overview and how it works",
+        "confidence": 0.42
+      },
+      {
+        "id": 2,
+        "title": "Ketogenic diet meal plans and food lists",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Ketogenic diet for weight loss",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Ketogenic diet health benefits and risks",
+        "confidence": 0.1
+      },
+      {
+        "id": 5,
+        "title": "Ketogenic diet recipes",
+        "confidence": 0.06
+      }
+    ]
+  },
+  {
+    "query_number": 282,
+    "query": "nasa interplanetary missions",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Overview of NASA interplanetary missions",
+        "confidence": 0.46
+      },
+      {
+        "id": 2,
+        "title": "List or catalog of NASA missions to other planets",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Current and upcoming NASA interplanetary missions",
+        "confidence": 0.16
+      },
+      {
+        "id": 4,
+        "title": "History and achievements of NASA interplanetary exploration",
+        "confidence": 0.09
+      },
+      {
+        "id": 5,
+        "title": "Spacecraft, technology, and objectives of NASA interplanetary missions",
+        "confidence": 0.05
+      }
+    ]
+  },
+  {
+    "query_number": 283,
+    "query": "hayrides in pa",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Find hayride attractions in Pennsylvania",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Information about hayride events or seasonal festivals in Pennsylvania",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 284,
+    "query": "where to find morel mushrooms",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Locations and habitats for finding morel mushrooms",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Geographic regions or seasons where morel mushrooms grow",
+        "confidence": 0.22
+      }
+    ]
+  },
+  {
+    "query_number": 285,
+    "query": "magnesium rich foods",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Foods high in magnesium",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Meal planning or diet sources to increase magnesium intake",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 286,
+    "query": "common schizophrenia drugs",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Antipsychotic medications used to treat schizophrenia",
+        "confidence": 0.82
+      },
+      {
+        "id": 2,
+        "title": "List of commonly prescribed schizophrenia drugs and examples",
+        "confidence": 0.18
+      }
+    ]
+  },
+  {
+    "query_number": 287,
+    "query": "carotid cavernous fistula treatment",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Medical treatment options for carotid cavernous fistula",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Endovascular management of carotid cavernous fistula",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 288,
+    "query": "fidel castro",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Biography and historical role of Fidel Castro",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Political ideology, policies, and governance under Fidel Castro",
+        "confidence": 0.22
+      }
+    ]
+  },
+  {
+    "query_number": 289,
+    "query": "benefits of yoga",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Health and wellness benefits of yoga",
+        "confidence": 0.62
+      },
+      {
+        "id": 2,
+        "title": "Mental health and stress reduction benefits of yoga",
+        "confidence": 0.23
+      },
+      {
+        "id": 3,
+        "title": "Physical fitness and flexibility benefits of yoga",
+        "confidence": 0.15
+      }
+    ]
+  },
+  {
+    "query_number": 290,
+    "query": "norway spruce",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Norway spruce tree species",
+        "confidence": 0.9
+      },
+      {
+        "id": 2,
+        "title": "Norway Spruce as lumber or wood product",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 291,
+    "query": "sangre de cristo mountains",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Information about the Sangre de Cristo Mountains mountain range",
+        "confidence": 0.84
+      },
+      {
+        "id": 2,
+        "title": "Travel and recreation in the Sangre de Cristo Mountains",
+        "confidence": 0.16
+      }
+    ]
+  },
+  {
+    "query_number": 292,
+    "query": "history of the electronic medical record",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Historical development of electronic medical records",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Evolution of electronic medical record systems and technology",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 293,
+    "query": "educational advantages of social networking sites",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Benefits of social networking sites for education and learning",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Advantages of using social networking sites in classroom teaching",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 294,
+    "query": "flowering plants",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Information about angiosperms as a plant group",
+        "confidence": 0.78
+      },
+      {
+        "id": 2,
+        "title": "Types and examples of flowering plants",
+        "confidence": 0.22
+      }
+    ]
+  },
+  {
+    "query_number": 295,
+    "query": "how to tie a windsor knot",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Instructions for tying a Windsor necktie knot",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "query_number": 296,
+    "query": "recycling lead acid batteries",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Lead-acid battery recycling process and methods",
+        "confidence": 0.46
+      },
+      {
+        "id": 2,
+        "title": "Environmental and safety considerations of recycling lead-acid batteries",
+        "confidence": 0.24
+      },
+      {
+        "id": 3,
+        "title": "Where and how to dispose of or recycle lead-acid batteries",
+        "confidence": 0.18
+      },
+      {
+        "id": 4,
+        "title": "Regulations and compliance for lead-acid battery recycling",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 297,
+    "query": "altitude sickness",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Altitude sickness overview, symptoms, causes, and prevention",
+        "confidence": 0.72
+      },
+      {
+        "id": 2,
+        "title": "Treatment and first aid for altitude sickness",
+        "confidence": 0.18
+      },
+      {
+        "id": 3,
+        "title": "Severe high-altitude illnesses such as HAPE and HACE",
+        "confidence": 0.1
+      }
+    ]
+  },
+  {
+    "query_number": 298,
+    "query": "medical care and jehovah's witnesses",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Medical treatment considerations for Jehovah’s Witnesses",
+        "confidence": 0.58
+      },
+      {
+        "id": 2,
+        "title": "Jehovah’s Witness beliefs about blood transfusions and healthcare",
+        "confidence": 0.3
+      },
+      {
+        "id": 3,
+        "title": "Legal and ethical issues in treating Jehovah’s Witness patients",
+        "confidence": 0.12
+      }
+    ]
+  },
+  {
+    "query_number": 299,
+    "query": "pink slime in ground beef",
+    "intents": [
+      {
+        "id": 1,
+        "title": "What \"pink slime\" is in relation to ground beef",
+        "confidence": 0.53
+      },
+      {
+        "id": 2,
+        "title": "Whether ground beef contains pink slime and how to identify it",
+        "confidence": 0.27
+      },
+      {
+        "id": 3,
+        "title": "Health and safety concerns of pink slime in ground beef",
+        "confidence": 0.2
+      }
+    ]
+  },
+  {
+    "query_number": 300,
+    "query": "how to find the mean",
+    "intents": [
+      {
+        "id": 1,
+        "title": "Calculate the arithmetic mean of a set of numbers",
+        "confidence": 0.88
+      },
+      {
+        "id": 2,
+        "title": "Understand what the mean is in basic statistics",
+        "confidence": 0.12
+      }
+    ]
+  }
+]

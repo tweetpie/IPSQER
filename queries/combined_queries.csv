@@ -1,0 +1,301 @@
+Query Number,Query
+ASQ_002001,Kepler history
+ASQ_002002,Kepler photos
+ASQ_002003,Kepler research
+ASQ_002004,Kepler key facts
+ASQ_002005,Sputnik background
+ASQ_002006,Sputnik pictures
+ASQ_002007,Sputnik research
+ASQ_002008,Sputnik key facts
+ASQ_002009,Mir origins
+ASQ_002010,Mir photos
+ASQ_002011,Mir research
+ASQ_002012,Mir key facts
+ASQ_002013,Juno background
+ASQ_002014,Juno pictures
+ASQ_002015,Juno research
+ASQ_002016,Juno key facts
+ASQ_002017,Dawn history
+ASQ_002018,Dawn pictures
+ASQ_002019,Dawn research
+ASQ_002020,Dawn key facts
+ASQ_002021,Lucy history
+ASQ_002022,Lucy images
+ASQ_002023,Lucy research
+ASQ_002024,Lucy key facts
+ASQ_002025,Rosetta history
+ASQ_002026,Rosetta pictures
+ASQ_002027,Rosetta research
+ASQ_002028,Rosetta key facts
+ASQ_002029,Pathfinder background
+ASQ_002030,Pathfinder pictures
+ASQ_002031,Pathfinder research overview
+ASQ_002032,Pathfinder key facts
+ASQ_002033,Spirit historical overview
+ASQ_002034,Spirit image gallery
+ASQ_002035,Spirit research overview
+ASQ_002036,Spirit key facts
+ASQ_002037,Explorer historical overview
+ASQ_002038,Explorer image gallery
+ASQ_002039,Explorer research overview
+ASQ_002040,Explorer key facts
+ASQ_002041,Tesla historical overview
+ASQ_002042,Tesla image gallery
+ASQ_002043,Tesla research overview
+ASQ_002044,Tesla key facts
+ASQ_002045,Ford historical overview
+ASQ_002046,Ford image gallery
+ASQ_002047,Ford research overview
+ASQ_002048,Ford key facts
+ASQ_002049,Lincoln history timeline
+ASQ_002050,Lincoln image gallery
+ASQ_002051,Lincoln research overview
+ASQ_002052,Lincoln key facts
+ASQ_002053,Titanic history timeline
+ASQ_002054,Titanic image gallery
+ASQ_002055,Titanic research overview
+ASQ_002056,Titanic key facts
+ASQ_002057,Mayflower historical overview
+ASQ_002058,Mayflower image gallery
+ASQ_002059,Mayflower research overview
+ASQ_002060,Mayflower key facts
+ASQ_002061,Bond meaning guide
+ASQ_002062,Bond rate
+ASQ_002063,Bond official rules
+ASQ_002064,Bond calculation method
+ASQ_002065,Equity meaning guide
+ASQ_002066,Equity official rules guide
+ASQ_002067,Equity real world examples
+ASQ_002068,Equity yearly report
+ASQ_002069,Margin meaning and definition
+ASQ_002070,Margin full eligibility requirements
+ASQ_002071,Margin real world examples
+ASQ_002072,Margin calculation method
+ASQ_002073,Spread meaning and definition
+ASQ_002074,Spread detailed analysis report
+ASQ_002075,Spread real world examples
+ASQ_002076,Spread current rate
+ASQ_002077,Yield meaning and definition
+ASQ_002078,Yield detailed analysis report
+ASQ_002079,Yield current rate
+ASQ_002080,Yield calculation method
+ASQ_002081,Option meaning and definition
+ASQ_002082,Option official rules guide
+ASQ_002083,Option real world examples
+ASQ_002084,Option current pricing guide
+ASQ_002085,Call meaning and definition
+ASQ_002086,Call rules and requirements guide
+ASQ_002087,Call examples and use cases
+ASQ_002088,Call complete user help guide
+ASQ_002089,Trust meaning and definition guide
+ASQ_002090,Trust rules and requirements guide
+ASQ_002091,Trust complete history and background
+ASQ_002092,Trust basics guide
+ASQ_002093,Estate meaning and definition guide
+ASQ_002094,Estate complete history and background
+ASQ_002095,Estate examples and use cases
+ASQ_002096,Estate basics guide
+ASQ_002097,Brief meaning and definition guide
+ASQ_002098,Brief examples and use cases
+ASQ_002099,Brief process guide
+ASQ_002100,Brief getting started
+ASQ_002101,Motion meaning
+ASQ_002102,Motion requirements
+ASQ_002103,Motion breakdown
+ASQ_002104,Motion process guide
+ASQ_002105,Appeal meaning
+ASQ_002106,Appeal process
+ASQ_002107,Appeal examples
+ASQ_002108,Appeal starter guide
+ASQ_002109,Deposition definition
+ASQ_002110,Deposition process
+ASQ_002111,Deposition examples
+ASQ_002112,Deposition breakdown
+ASQ_002113,Case definition
+ASQ_002114,Case analysis
+ASQ_002115,Case examples
+ASQ_002116,Case yearly report
+ASQ_002117,Bar meaning
+ASQ_002118,Bar rules
+ASQ_002119,Bar background
+ASQ_002120,Bar beginner guide
+ASQ_002121,Bench meaning
+ASQ_002122,Bench guidelines
+ASQ_002123,Bench history
+ASQ_002124,Bench starter guide
+ASQ_002125,Circuit meaning
+ASQ_002126,Circuit rules
+ASQ_002127,Circuit analysis
+ASQ_002128,Circuit beginner guide
+ASQ_002129,Charge definition
+ASQ_002130,Charge requirements
+ASQ_002131,Charge analysis report
+ASQ_002132,Charge calculation method
+ASQ_002133,Settlement definition guide
+ASQ_002134,Settlement process
+ASQ_002135,Settlement history timeline
+ASQ_002136,Settlement basics guide
+ASQ_002137,Claim meaning guide
+ASQ_002138,Claim official rules
+ASQ_002139,Claim process
+ASQ_002140,Claim beginner guide
+ASQ_002141,Premium meaning explained
+ASQ_002142,Premium rate
+ASQ_002143,Premium key benefits
+ASQ_002144,Premium pricing guide
+ASQ_002145,Policy meaning guide
+ASQ_002146,Policy official rules
+ASQ_002147,Policy historical overview
+ASQ_002148,Policy beginner guide
+ASQ_002149,Coverage meaning explained
+ASQ_002150,Coverage research analysis
+ASQ_002151,Coverage latest report
+ASQ_002152,Coverage getting started
+ASQ_002153,Deductible meaning explained
+ASQ_002154,Deductible official rules
+ASQ_002155,Deductible practical examples
+ASQ_002156,Deductible calculation method
+ASQ_002157,Audit definition guide
+ASQ_002158,Audit process
+ASQ_002159,Audit sample cases
+ASQ_002160,Audit annual results
+ASQ_002161,Reserve meaning guide
+ASQ_002162,Reserve official rules
+ASQ_002163,Reserve history timeline
+ASQ_002164,Reserve yearly report
+ASQ_002165,Capital meaning explained
+ASQ_002166,Capital detailed analysis report
+ASQ_002167,Capital history and background
+ASQ_002168,Capital yearly report
+ASQ_002169,Interest meaning and definition
+ASQ_002170,Interest rate
+ASQ_002171,Interest real world examples
+ASQ_002172,Interest calculation method
+ASQ_002173,Exposure meaning and definition
+ASQ_002174,Exposure detailed analysis report
+ASQ_002175,Exposure latest report
+ASQ_002176,Exposure calculation method
+ASQ_002177,Leverage meaning and definition
+ASQ_002178,Leverage detailed analysis report
+ASQ_002179,Leverage real world examples
+ASQ_002180,Leverage calculation method
+ASQ_002181,Atlas history and background
+ASQ_002182,Atlas practical user guide
+ASQ_002183,Atlas latest image gallery
+ASQ_002184,Nova history and background
+ASQ_002185,Nova detailed performance review
+ASQ_002186,Nova latest news and updates
+ASQ_002187,Vertex meaning and definition guide
+ASQ_002188,Vertex research findings and analysis
+ASQ_002189,Vertex latest news and updates
+ASQ_002190,Matrix meaning and definition guide
+ASQ_002191,Matrix complete history and background
+ASQ_002192,Matrix system guide
+ASQ_002193,Meridian meaning and definition guide
+ASQ_002194,Meridian complete history and background
+ASQ_002195,Meridian academic research paper summary
+ASQ_002196,Summit meaning and definition guide
+ASQ_002197,Summit complete history and background
+ASQ_002198,Summit latest news and updates
+ASQ_002199,Odyssey complete history and background
+ASQ_002200,Odyssey detailed review and ratings
+ASQ_002201,Odyssey news
+ASQ_002202,Spectrum meaning
+ASQ_002203,Spectrum services
+ASQ_002204,Spectrum studies
+ASQ_002205,Frontier background
+ASQ_002206,Frontier updates
+ASQ_002207,Frontier market
+ASQ_002208,Harmony definition
+ASQ_002209,Harmony history
+ASQ_002210,Harmony research
+ASQ_002211,Horizon meaning
+ASQ_002212,Horizon background
+ASQ_002213,Horizon images
+ASQ_002214,Paramount meaning
+ASQ_002215,Paramount origins
+ASQ_002216,Paramount updates
+ASQ_002217,Universal definition
+ASQ_002218,Universal history
+ASQ_002219,Universal updates
+ASQ_002220,Titan origins
+ASQ_002221,Titan capabilities
+ASQ_002222,Titan updates
+ASQ_002223,Eclipse background
+ASQ_002224,Eclipse capabilities
+ASQ_002225,Eclipse news
+ASQ_002226,Sierra history
+ASQ_002227,Sierra performance
+ASQ_002228,Sierra updates
+ASQ_002229,Alpine background
+ASQ_002230,Alpine performance
+ASQ_002231,Alpine recent news
+ASQ_002232,Cascade definition guide
+ASQ_002233,Cascade history timeline
+ASQ_002234,Cascade system guide
+ASQ_002235,Keystone definition guide
+ASQ_002236,Keystone history timeline
+ASQ_002237,Keystone project overview
+ASQ_002238,Vector meaning guide
+ASQ_002239,Vector detailed analysis
+ASQ_002240,Vector research paper
+ASQ_002241,Pulse definition guide
+ASQ_002242,Pulse research overview
+ASQ_002243,Pulse latest news
+ASQ_002244,Compass history timeline
+ASQ_002245,Compass industry report
+ASQ_002246,Compass news update
+ASQ_002247,Mosaic historical overview
+ASQ_002248,Mosaic image gallery
+ASQ_002249,Mosaic usage guide
+ASQ_002250,Clover historical overview
+ASQ_002251,Clover key benefits
+ASQ_002252,Clover user guide
+ASQ_002253,Prime meaning guide
+ASQ_002254,Prime key benefits
+ASQ_002255,Prime historical overview
+ASQ_002256,Fire meaning explained
+ASQ_002257,Fire historical overview
+ASQ_002258,Fire news update
+ASQ_002259,Bridge historical overview
+ASQ_002260,Bridge official rules
+ASQ_002261,Bridge system guide
+ASQ_002262,Beacon meaning guide
+ASQ_002263,Beacon historical overview
+ASQ_002264,Beacon system guide
+ASQ_002265,Sentinel meaning explained
+ASQ_002266,Sentinel history and background
+ASQ_002267,Sentinel latest news update
+ASQ_002268,Polaris history and background
+ASQ_002269,Polaris detailed performance review
+ASQ_002270,Polaris latest news update
+ASQ_002271,Orion history and background
+ASQ_002272,Orion detailed performance review
+ASQ_002273,Orion latest news update
+ASQ_002274,Artemis history and background
+ASQ_002275,Artemis official program guide
+ASQ_002276,Artemis latest news update
+ASQ_002277,Alpha meaning and definition
+ASQ_002278,Alpha detailed analysis report
+ASQ_002279,Alpha history and background
+ASQ_002280,Beta meaning and definition
+ASQ_002281,Beta detailed analysis report
+ASQ_002282,Beta history and background
+ASQ_002283,Gamma meaning and definition
+ASQ_002284,Gamma detailed analysis report
+ASQ_002285,Gamma latest research paper
+ASQ_002286,Sigma meaning and definition guide
+ASQ_002287,Sigma full analysis and breakdown
+ASQ_002288,Sigma complete history and background
+ASQ_002289,Omega meaning and definition guide
+ASQ_002290,Omega complete history and background
+ASQ_002291,Omega latest news and updates
+ASQ_002292,Lambda meaning and definition guide
+ASQ_002293,Lambda complete history and background
+ASQ_002294,Lambda performance review and analysis
+ASQ_002295,Neptune complete history and background
+ASQ_002296,Neptune images and photo gallery
+ASQ_002297,Neptune latest news and updates
+ASQ_002298,Pluto complete history and background
+ASQ_002299,Pluto images and photo gallery
+ASQ_002300,Pluto latest news and updates
